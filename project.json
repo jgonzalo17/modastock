@@ -1,0 +1,23 @@
+{
+  "overview": "Una app de inventario en español para tiendas de ropa, con control de stock por talla, ventas, gastos y un asistente offline.",
+  "features": [
+    "Inventario con fotos, categorías y stock por talla",
+    "Registro de ventas con captura de pago y descuento de stock",
+    "Control de gastos con conceptos sugeridos",
+    "Asistente en español que responde consultas de stock sin internet",
+    "Resumen mensual de ventas, gastos y ganancia",
+    "Exportar a CSV y respaldo de datos",
+    "Funciona sin conexión e instalable en Android"
+  ],
+  "category": "inventory-management",
+  "tags": [
+    "inventario",
+    "tienda-de-ropa",
+    "ventas",
+    "gastos",
+    "pwa",
+    "offline",
+    "espanol"
+  ],
+  "last_updated": "2026-09-30T18:47:15.095Z"
+}
